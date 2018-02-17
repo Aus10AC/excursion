@@ -4,8 +4,7 @@ html {
 }
 
 h1,
-h2,
-h3 {
+h2 {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
@@ -16,7 +15,7 @@ h3 {
 p {
   font-family: Verdana;
   font-size: 21px;
-  color: grey;
+  color: gray;
 }
 
 .dl {
